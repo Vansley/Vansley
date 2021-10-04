@@ -13,4 +13,4 @@
   
   ##
   
-  
+  ![Snake animation](https://github.com/Vansley/Vansley/blob/output/github-contribution-grid-snake.svg)
