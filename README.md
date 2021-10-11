@@ -3,7 +3,7 @@
 - 🔭 Procurando oportunidade de estágio
 - 🌱 Estudando JS, Engenharia de Software.
 - 📫 Email: vansleytsilva@gmail.com
-- 😄 Pronouns:  Ele/D
+- 😄 Pronouns:  Ele/Dele
 <div align="center">
   <a href="https://github.com/Vansley">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vansley&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
