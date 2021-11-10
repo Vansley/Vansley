@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vansley 👋
 
 - 🔭 Procurando oportunidade de estágio
-- 🌱 Estudando JS, Engenharia de Software.
+- 🌱 Estudando JS, SLQ, Engenharia de Software e Perícia Computacional.
 - 📫 Email: vansleytsilva@gmail.com
 - 😄 Pronouns:  Ele/Dele
 <div align="center">
