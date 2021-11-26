@@ -1,7 +1,10 @@
 ### Olá! Eu sou o Vansley 👋
 
-- 🔭 Procurando oportunidade de estágio
+- 🔭 PROCURANDO OPORTUNIDADE DE ESTÁGIO.
 - 🌱 Estudando JS, SLQ, Engenharia de Software e Perícia Computacional.
+- 🌱Estudo inglês na Thomas Jefferson.
+- 🌱Estudando o preparatorio para tirar as certificação de CTFL
+- Para em seguida tirar a de CTFL-MBT ganho em uma webinar.
 - 📫 Email: vansleytsilva@gmail.com
 - 😄 Pronouns:  Ele/Dele
 <div align="center">
