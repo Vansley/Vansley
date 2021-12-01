@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Vansley 👋
-
 - 🔭 PROCURANDO OPORTUNIDADE DE ESTÁGIO.
 - 🌱 Estudando JS, SLQ, Engenharia de Software e Perícia Computacional.
 <div align="center">
