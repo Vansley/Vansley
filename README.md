@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vansley 👋
 - 🔭 PROCURANDO OPORTUNIDADE DE ESTÁGIO.
-- 🌱 Estudando JS, SLQ, Engenharia de Software e Perícia Computacional.
+- 🌱 Estudando JS,JAVA, CTFL
 <div align="center">
   <a href="https://github.com/Vansley">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vansley&show_icons=true&theme=Tactile&include_all_commits=true&count_private=true"/>
