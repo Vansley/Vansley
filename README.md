@@ -1,5 +1,4 @@
-### Olá! Eu sou o Vansley 👋
-- 🔭 PROCURANDO OPORTUNIDADE DE ESTÁGIO.
+### Olá! Eu sou o Vansley 
 - 🌱 Estudando JS,JAVA,CTFL,ENGENHARIA DE SOFTWARE
 <div align="center">
   <a href="https://github.com/Vansley">
