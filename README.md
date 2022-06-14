@@ -17,7 +17,8 @@
   <img align="center" alt="Vansley-Ilustrator" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" >
   <img align="center" alt="Vansley-Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" >
   <img align="center" alt="Vansley-Blender" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" >
-  <img align="center" alt="Vansley-Blender" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" >
+  <img align="center" alt="Vansley-docker" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" >
+  <img align="center" alt="Vansley-github" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" >
 
 
 
