@@ -14,7 +14,12 @@
   <img align="center" alt="Vansley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vansley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vansley-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Vansley-Ilustrator" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+  <img align="center" alt="Vansley-Ilustrator" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" >
+  <img align="center" alt="Vansley-Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" >
+  <img align="center" alt="Vansley-Blender" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" >
+  <img align="center" alt="Vansley-Blender" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" >
+
+
 
   </div>
  
