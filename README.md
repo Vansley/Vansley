@@ -1,7 +1,6 @@
 ### Olá! Eu me chamo Vansley 👋
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília.
-🎓 Pós-graduando em Engenharia de software
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília, Pós-graduando em Engenharia de software
 
 ### Sobre mim:
 
